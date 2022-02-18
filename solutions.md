@@ -1,6 +1,7 @@
 -Difference between router and switch devices?
 
 - router => is a switching device for networks, that connects two or more packet-switched networks or subnetworks. 
+
 It serves two primary functions: 
     - managing traffic between these networks by forwarding data packets to their intended IP addresses, 
     - allowing multiple devices to use the same Internet connection.
@@ -43,11 +44,17 @@ For the best security, it's important to keep backend instances and databases pr
 -Threat-mitigation methods?
 
 1- Conduct a risk assessment to determine vulnerabilities
+
 2- Establish network access controls
+
 3- Implement firewalls and antivirus software
+
 4- Create a patch management schedule
+
 5- Continuously monitor network traffic
+
 6- Build an incident response plan
+
 
 ## Refrences
 - [*What is a router?*](https://www.cloudflare.com/learning/network-layer/what-is-a-router/#:~:text=A%20router%20is%20a%20device,use%20the%20same%20Internet%20connection.).
