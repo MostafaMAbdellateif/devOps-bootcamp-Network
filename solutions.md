@@ -3,6 +3,7 @@
 - router => is a switching device for networks, that connects two or more packet-switched networks or subnetworks. 
 
 It serves two primary functions: 
+
     - managing traffic between these networks by forwarding data packets to their intended IP addresses, 
     - allowing multiple devices to use the same Internet connection.
 
